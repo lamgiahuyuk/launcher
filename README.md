@@ -1,3 +1,3 @@
 # launcher
 LAUNCHER
-RYN BY alexlamcode.com
+RUN BY alexlamcode.com
